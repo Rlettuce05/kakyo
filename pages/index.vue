@@ -21,5 +21,7 @@ export default {
 </script>
 
 <style scoped>
-
+tr, th {
+	border: solid 1px;
+}
 </style>

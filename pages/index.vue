@@ -1,7 +1,9 @@
 <template>
   <div class="content">
-    <Calender />
-		<TaskList />
+		<div class="calender">
+		</div>
+		<div class="tasklist">
+		</div>
 	</div>
 </template>
 
